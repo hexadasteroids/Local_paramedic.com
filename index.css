@@ -1,0 +1,112 @@
+.y {
+    color: navy
+}
+
+.z {
+    position: absolute;
+    left: 30;
+}
+
+.h {
+    position: absolute;
+    left: 150;
+    top: 30;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+header {
+    padding: 80px;
+    position: absolute;
+    top: -10;
+    width: 1255;
+    left: -50;
+}
+
+.box1 {
+    border: 1px solid black;
+    position: absolute;
+    top: 540;
+    left: 90;
+    width: 800;
+    height: 650;
+    background-color:  #d9d9d9;
+    border-radius: 20px;
+}
+
+.txt1 {
+    position: absolute;
+    left: 10;
+}
+
+.box2 {
+    border: 1px solid black;
+    position: absolute;
+    top: 1240;
+    left: 90;
+    width: 800;
+    height: 500;
+    background-color: #d9d9d9;
+    border-radius: 20px;
+}
+
+ol {
+    position: absolute;
+    top: 200;
+    left: 30;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    list-style: circle;
+
+}
+
+a {
+    text-decoration: none;
+    color: rgb(39, 34, 34);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.box3 {
+    border: 1px solid black;
+    position: absolute;
+    top: 1800;
+    left: 90;
+    width: 800;
+    height: 800;
+    background-color: #d9d9d9;
+    border-radius: 20px;
+}
+
+.box4 {
+    border: 1px solid black;
+    position: absolute;
+    top: 2650;
+    left: 90;
+    width: 800;
+    height: 600;
+    background-color: #d9d9d9;
+    border-radius: 20px;
+}
+
+.box5 {
+    border: 1px solid black;
+    position: absolute;
+    top: 3300;
+    left: 90;
+    width: 800;
+    height: 600;
+    background-color: #d9d9d9;
+    border-radius: 20px;
+}
+
+img {
+    float: right;
+    position: absolute;
+    left: 500;
+    top: 250;
+}
+
+#four {    
+    list-style: decimal;
+}
